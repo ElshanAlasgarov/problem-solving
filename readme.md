@@ -6,7 +6,7 @@ This repository contains daily solutions for LeetCode problems in multiple progr
 
 | #  | Problem | Solutions |
 |----|---------|-----------|
-| 001 | [contains-dupicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python](leetcode/python/001-contains-dupicate.py)
+| 001 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Java](leetcode/java/ReverseLinkedList.java)
 
 
 
